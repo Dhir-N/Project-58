@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(#90ee90 0%, #00ff7f 100%);
+  background-repeat: no-repeat;
+}
+div {
+  height: 400px;
+  background-image: linear-gradient(#90ee90 0%, #00ff7f 100%);
+  background-repeat: no-repeat;
+}
+img {
+  height: 310px;
+  width: 370px;
+  border-radius: 50%;
+    margin-left: 175px;
+}
+h1 {
+  text-shadow: 2px 2px #228b22;
+  font-size: 35px;
+    font-family: 'Roboto Slab', serif;
+}
+p {
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+.menu:hover{
+    color: white;
+}
